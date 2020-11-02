@@ -1,4 +1,4 @@
-# angular-multilanguage-test
+# Angular multilanguage
 Angular project using translation on front end side (using json file)
 
 ## Development server

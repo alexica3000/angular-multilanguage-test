@@ -1,0 +1,16 @@
+{
+  "contact-page": {
+    "site-name": "Contact page"
+  },
+  "home-page": {
+    "email": "Email",
+    "mobile": "Mobile",
+    "name": "Name",
+    "name-required": "Name is required.",
+    "password": "Password",
+    "site-name": "Angular multi language site"
+  },
+  "shared": {
+    "submit": "Submit"
+  }
+}

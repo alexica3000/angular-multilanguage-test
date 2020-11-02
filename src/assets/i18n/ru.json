@@ -1,0 +1,16 @@
+{
+  "contact-page": {
+    "site-name": "Страница контактов"
+  },
+  "home-page": {
+    "email": "Email",
+    "mobile": "Мобильный",
+    "name": "Имя",
+    "name-required": "Имя обязательно.",
+    "password": "Пароль",
+    "site-name": "Angular многоязычный сайт"
+  },
+  "shared": {
+    "submit": "Отправить"
+  }
+}

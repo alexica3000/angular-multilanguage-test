@@ -1,0 +1,16 @@
+{
+  "contact-page": {
+    "site-name": "Pagina de contact"
+  },
+  "home-page": {
+    "email": "Email",
+    "mobile": "Mobil",
+    "name": "Nume",
+    "name-required": "Numele este obligatoriu.",
+    "password": "Parola",
+    "site-name": "Angular multi language site"
+  },
+  "shared": {
+    "submit": "Trimite"
+  }
+}
