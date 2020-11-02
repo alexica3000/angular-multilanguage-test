@@ -3,6 +3,8 @@
     "site-name": "Contact page"
   },
   "home-page": {
+    "add-user": "Add user",
+    "conditions": "Conditions of using service",
     "email": "Email",
     "mobile": "Mobile",
     "name": "Name",

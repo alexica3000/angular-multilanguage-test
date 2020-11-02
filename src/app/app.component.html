@@ -17,3 +17,37 @@
     </select>
   </span>
 </nav>
+
+<div class="container col-md-6 mt-3">
+  <h3>{{ 'home-page.add-user' | translate }}</h3>
+  <form action="#">
+    <div class="form-group">
+      <label for="name">{{ 'home-page.name' | translate }}</label>
+      <input type="text" name="name" id="name" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <label for="email">{{ 'home-page.email' | translate }}</label>
+      <input type="text" name="email" id="email" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <label for="mobile">{{ 'home-page.mobile' | translate }}</label>
+      <input type="tel" name="mobile" id="mobile" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <label for="password">{{ 'home-page.password' | translate }}</label>
+      <input type="password" name="password" id="password" class="form-control">
+    </div>
+
+    <div class="form-group form-check">
+      <label for="conditions">
+        <input type="checkbox" name="conditions" id="conditions" class="form-check-input">
+        {{ 'home-page.conditions' | translate }}
+      </label>
+    </div>
+
+    <button class="btn btn-block btn-primary">{{ 'shared.submit' | translate }}</button>
+  </form>
+</div>

@@ -3,6 +3,8 @@
     "site-name": "Pagina de contact"
   },
   "home-page": {
+    "add-user": "Adaugă utilizator",
+    "conditions": "Condiții de utilizare a serviciului",
     "email": "Email",
     "mobile": "Mobil",
     "name": "Nume",
